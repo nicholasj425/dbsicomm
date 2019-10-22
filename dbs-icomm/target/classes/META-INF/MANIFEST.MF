@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: dbs-icomm
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: NicholasJ
+Implementation-Vendor-Id: com.icomm
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/dbs-icomm
+Created-By: Maven Integration for Eclipse
+
